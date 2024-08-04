@@ -1,5 +1,5 @@
 `timescale 1ns/1ns
-//refer fig 4.59 for additional mux usage
+
 module forwarding_unit(
   input[4:0] exmem_rd,
   input[4:0] memwb_rd,
